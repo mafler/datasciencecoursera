@@ -11,6 +11,6 @@ output: html_document
 #### Files 
 1. CodeBook.md sets out information about the data and how the code works
 
-2.run_analysis.R performs the opperations to clean and tidy dataset
+2. run_analysis.R performs the opperations to clean and tidy dataset
 
 3. data.txt is the output from run_analysis.R
